@@ -1,0 +1,11 @@
+2021/07/14-14:34:02.468 3 Creating DB /home/xiaolihua/.config/google-chrome/Default/Local Storage/leveldb since it was missing.
+2021/07/14-14:34:02.753 3 Reusing MANIFEST /home/xiaolihua/.config/google-chrome/Default/Local Storage/leveldb/MANIFEST-000001
+2021/07/14-15:16:22.311 a Level-0 table #5: started
+2021/07/14-15:16:22.370 a Level-0 table #5: 496216 bytes OK
+2021/07/14-15:16:22.417 a Delete type=0 #3
+2021/07/14-16:21:11.821 21 Level-0 table #7: started
+2021/07/14-16:21:11.875 21 Level-0 table #7: 87408 bytes OK
+2021/07/14-16:21:11.931 21 Delete type=0 #4
+2021/07/14-17:41:40.300 3f Level-0 table #9: started
+2021/07/14-17:41:40.337 3f Level-0 table #9: 22256 bytes OK
+2021/07/14-17:41:40.384 3f Delete type=0 #6

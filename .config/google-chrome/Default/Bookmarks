@@ -1,0 +1,40 @@
+{
+   "checksum": "6da8c93147426e5f160c46f7d181d91a",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13270729972637055",
+            "guid": "98b94a7f-b996-4f11-aa4e-fc215f7e22de",
+            "id": "8",
+            "name": "Git教程 - 廖雪峰的官方网站",
+            "type": "url",
+            "url": "https://www.liaoxuefeng.com/wiki/896043488029600"
+         } ],
+         "date_added": "13270718042463014",
+         "date_modified": "13270729972637055",
+         "guid": "00000000-0000-4000-a000-000000000002",
+         "id": "1",
+         "name": "书签栏",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13270718042463015",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000003",
+         "id": "2",
+         "name": "其他书签",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13270718042463015",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000004",
+         "id": "3",
+         "name": "移动设备书签",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

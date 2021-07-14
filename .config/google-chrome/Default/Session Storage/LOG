@@ -1,0 +1,17 @@
+2021/07/14-14:34:06.948 5 Creating DB /home/xiaolihua/.config/google-chrome/Default/Session Storage since it was missing.
+2021/07/14-14:34:07.437 5 Reusing MANIFEST /home/xiaolihua/.config/google-chrome/Default/Session Storage/MANIFEST-000001
+2021/07/14-15:37:04.294 1b Level-0 table #5: started
+2021/07/14-15:37:04.324 1b Level-0 table #5: 20824 bytes OK
+2021/07/14-15:37:04.372 1b Delete type=0 #3
+2021/07/14-16:21:13.088 29 Level-0 table #7: started
+2021/07/14-16:21:13.121 29 Level-0 table #7: 20651 bytes OK
+2021/07/14-16:21:13.189 29 Delete type=0 #4
+2021/07/14-16:22:13.088 29 Level-0 table #9: started
+2021/07/14-16:22:14.111 29 Level-0 table #9: 15466 bytes OK
+2021/07/14-16:22:14.158 29 Delete type=0 #6
+2021/07/14-17:02:44.265 3f Level-0 table #11: started
+2021/07/14-17:02:44.312 3f Level-0 table #11: 20790 bytes OK
+2021/07/14-17:02:44.358 3f Delete type=0 #8
+2021/07/14-17:51:26.062 55 Level-0 table #13: started
+2021/07/14-17:51:26.091 55 Level-0 table #13: 22763 bytes OK
+2021/07/14-17:51:26.138 55 Delete type=0 #10

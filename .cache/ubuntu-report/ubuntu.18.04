@@ -1,0 +1,83 @@
+{
+  "Version": "18.04",
+  "OEM": {
+    "Vendor": "HP",
+    "Product": "HP ProDesk 680 G6 PCI Microtower PC",
+    "Family": "103C_53307F HP ProDesk"
+  },
+  "BIOS": {
+    "Vendor": "HP",
+    "Version": "S02 Ver. 02.05.01"
+  },
+  "CPU": {
+    "OpMode": "32-bit, 64-bit",
+    "CPUs": "16",
+    "Threads": "2",
+    "Cores": "8",
+    "Sockets": "1",
+    "Vendor": "GenuineIntel",
+    "Family": "6",
+    "Model": "165",
+    "Stepping": "5",
+    "Name": "Intel(R) Core(TM) i7-10700 CPU @ 2.90GHz",
+    "Virtualization": "VT-x"
+  },
+  "Arch": "amd64",
+  "GPU": [
+    {
+      "Vendor": "8086",
+      "Model": "9bc5"
+    }
+  ],
+  "RAM": 16.2,
+  "Disks": [
+    4000.8
+  ],
+  "Partitions": [
+    1032.4,
+    0.3
+  ],
+  "Screens": [
+    {
+      "Size": "527mmx296mm",
+      "Resolution": "1920x1080",
+      "Frequency": "60.00"
+    },
+    {
+      "Size": "527mmx296mm",
+      "Resolution": "1920x1080",
+      "Frequency": "60.00"
+    }
+  ],
+  "Autologin": false,
+  "LivePatch": false,
+  "Session": {
+    "DE": "ubuntu:GNOME",
+    "Name": "ubuntu",
+    "Type": "x11"
+  },
+  "Language": "zh_CN",
+  "Timezone": "Asia/Shanghai",
+  "Install": {
+    "Media": "Ubuntu 18.04.4 LTS \"Bionic Beaver\" - Release amd64 (20200203.1)",
+    "Type": "GTK",
+    "OEM": false,
+    "PartitionMethod": "resize_use_free",
+    "DownloadUpdates": false,
+    "Language": "zh_CN",
+    "Minimal": true,
+    "RestrictedAddons": false,
+    "Stages": {
+      "0": "language",
+      "10": "console_setup",
+      "18": "prepare",
+      "38": "partman",
+      "47": "partman",
+      "72": "start_install",
+      "96": "timezone",
+      "178": "usersetup",
+      "202": "user_done",
+      "1893": "done"
+    }
+  }
+}

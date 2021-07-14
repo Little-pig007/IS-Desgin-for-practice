@@ -1,0 +1,6 @@
+2021/07/14-16:19:12.075 2b40 Creating DB /home/xiaolihua/.config/google-chrome/Default/IndexedDB/https_www.freesion.com_0.indexeddb.leveldb since it was missing.
+2021/07/14-16:19:12.172 2b40 Reusing MANIFEST /home/xiaolihua/.config/google-chrome/Default/IndexedDB/https_www.freesion.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/07/14-16:31:29.472 48fb Level-0 table #5: started
+2021/07/14-16:31:29.502 48fb Level-0 table #5: 1744 bytes OK
+2021/07/14-16:31:29.549 48fb Delete type=0 #3
+2021/07/14-16:31:29.549 48fb Manual compaction at level-0 from (begin) .. (end); will stop at (end)
